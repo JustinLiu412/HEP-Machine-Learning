@@ -6,3 +6,6 @@
 | --------------- |:-----------------:| -------------:|
 | Pi0 vs. Gamma   | 97.49%            |   96%         |
 | ChPi vs. Ele    | 99.94%            |   99.96%      |
+
+## Reference
+https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf
